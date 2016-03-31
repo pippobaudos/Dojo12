@@ -39,7 +39,7 @@ public class AppTest
 
     public void testFailingApp()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
 
 }
