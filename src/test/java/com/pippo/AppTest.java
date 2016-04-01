@@ -37,16 +37,16 @@ public class AppTest
     }
 
 
-    public void passingTest()
+    public void testPassing()
     {
         assertTrue( true );
     }
 
 
-    public void failingTest()
+    public void testFailing()
     {
 
-        assertTrue( true );
+        assertTrue( false );
     }
 
 }
