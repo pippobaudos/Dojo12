@@ -39,6 +39,7 @@ public class AppTest
 
     public void testPassing()
     {
+
         assertTrue( true );
     }
 
